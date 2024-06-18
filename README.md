@@ -23,6 +23,7 @@ python ./UniOKD_code/Test/main.py
 ```
 
 **For ViT-liked Models**
+
 To train the student and teacher model, please run the following command:
 ```
 python ./UniOKD_code_vit/ViT_res18-Swint/train.py
