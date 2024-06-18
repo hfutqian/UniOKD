@@ -1,4 +1,0 @@
-vit-pytorch
-einops
-odach
-wandb
