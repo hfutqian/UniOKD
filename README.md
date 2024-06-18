@@ -30,6 +30,10 @@ python ./UniOKD_code_vit/ViT_res18-Swint/train.py
 ```
 
 
+## Results
+
+The performance of our models is measured by Top-1 classification accuracy (%), which is reported below:
+
 
 
 
