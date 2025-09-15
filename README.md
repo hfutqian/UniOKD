@@ -37,6 +37,10 @@ The performance of our models is evaluated across various tasks, such as classif
 
 ![results](https://github.com/hfutqian/UniOKD/blob/main/images/results.png)
 
+* Results on segmentation task
+
+* Results on object detection task
+
 
 
 
