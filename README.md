@@ -32,7 +32,7 @@ python ./UniOKD_code_vit/ViT_res18-Swint/train.py
 
 ## Results
 
-The performance of our models is measured by Top-1 classification accuracy (%), which is reported below:
+The performance of our models is evaluated across various tasks, such as classification, segmentation and object detection, which is reported below:
 
 ![results](https://github.com/hfutqian/UniOKD/blob/main/images/results.png)
 
